@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishwajeet Samddar</h1>
+<h3 align="center">Full-Stack developer from India</h3>
+<h3 algin="center">Software Developer with 3+ Years of experience in designing and developing APIs, UI, testing, debugging and deployment on cloud AWS, Firebase. Proven ability in optimizing web functionalities that improve data retrieval and workflow efficiencies. </h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwajeet-7828&label=Profile%20views&color=0e75b6&style=flat" alt="vishwajeet-7828" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwajeet-7828" alt="vishwajeet-7828" /></a> </p>
