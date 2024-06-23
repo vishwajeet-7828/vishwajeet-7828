@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **NodeJs, Python, PHP, Go, Java, ReactJs, Flutter, AWS, Js, Bootstrap, HTML**
 
-- 📫 How to reach me **vishwajeet-7828@outlook.com**
+- 📫 How to reach me **vishwajeet3317@gmail.com**
 
 - 📄 Know about my experiences [https://vishwajeet-7828.github.io/](https://vishwajeet-7828.github.io/)
 
