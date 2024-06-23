@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/vishwaj15480885" target="blank"><img src="https://img.shields.io/twitter/follow/vishwaj15480885?logo=twitter&style=for-the-badge" alt="vishwaj15480885" /></a> </p>
 
-- 🔭 I’m currently working on **Insurance Doamin**
+- 🔭 I’m currently working on **Insurance Domain**
 
 - 🌱 I’m currently learning **Blockchain**
 
