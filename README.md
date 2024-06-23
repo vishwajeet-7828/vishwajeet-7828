@@ -10,8 +10,6 @@
 
 - 🔭 I’m currently working on **Insurance Domain**
 
-- 🌱 I’m currently learning **Blockchain**
-
 - 👯 I’m looking to collaborate on **Front-end & Back-end**
 
 - 💬 Ask me about **NodeJs, Python, PHP, Go, Java, ReactJs, Flutter, AWS, Js, Bootstrap, HTML**
